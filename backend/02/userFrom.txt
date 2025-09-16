@@ -1,0 +1,7 @@
+Name: Eren 
+ 
+Age: 23 
+ 
+Experience: 2 
+
+Graduation:Y
