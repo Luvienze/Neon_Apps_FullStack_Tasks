@@ -1,0 +1,63 @@
+Server started at port: 3000...2025-09-19T12:48:55.487Z | 
+    POST /api/v1/student 
+2025-09-19T12:50:04.240Z | 
+    POST /api/v1/student 
+2025-09-19T12:51:02.389Z | 
+    POST /api/v1/student 
+Server started at port: 3000...2025-09-19T12:51:57.241Z | 
+    POST /api/v1/student 
+Server started at port: 3000...2025-09-19T12:53:03.014Z | 
+    POST /api/v1/student 
+error: Student is not a constructor
+Server started at port: 3000...2025-09-19T12:56:10.663Z | 
+    POST /api/v1/student 
+error: db already exists with different case already have: [University] trying to create [university]
+2025-09-19T12:57:08.283Z | 
+    POST /api/v1/student 
+2025-09-19T12:57:27.239Z | 
+    GET /api/v1/students 
+Server started at port: 3000...2025-09-19T12:57:44.753Z | 
+    GET /api/v1/students 
+Server started at port: 3000...2025-09-19T12:58:04.752Z | 
+    GET /api/v1/students 
+Students found.Server started at port: 3000...2025-09-19T12:59:45.882Z | 
+    GET /api/v1/students 
+name is not definedServer started at port: 3000...2025-09-19T13:00:40.450Z | 
+    GET /api/v1/students 
+Students found.2025-09-19T13:01:27.871Z | 
+    POST /api/v1/student 
+2025-09-19T13:01:31.476Z | 
+    GET /api/v1/students 
+Students found.2025-09-19T13:02:05.261Z | 
+    GET /api/v1/student/j?email=janesmith@gmail.com 
+Student with email j not found2025-09-19T13:02:18.298Z | 
+    GET /api/v1/student/j?email=%27janesmith@gmail.com%27 
+Student with email j not foundServer started at port: 3000...2025-09-19T13:03:20.780Z | 
+    GET /api/v1/student/j?email=janesmith@gmail.com 
+Student with email j not found2025-09-19T13:03:50.079Z | 
+    GET /api/v1/student/?email=janesmith@gmail.com 
+Server started at port: 3000...2025-09-19T13:04:02.719Z | 
+    GET /api/v1/student/?email=janesmith@gmail.com 
+2025-09-19T13:04:11.110Z | 
+    GET /api/v1/student/?email=johndoe@gmail.com 
+Server started at port: 3000...2025-09-19T13:04:44.706Z | 
+    GET /api/v1/student/?email=johndoe@gmail.com 
+Server started at port: 3000...2025-09-19T13:05:45.873Z | 
+    GET /api/v1/student/?email=johndoe@gmail.com 
+Server started at port: 3000...2025-09-19T13:06:25.410Z | 
+    GET /api/v1/student/johndoe@gmail.com 
+Student with email: johndoe@gmail.com found.2025-09-19T13:06:59.794Z | 
+    GET /api/v1/student?email=johndoe@gmail.com 
+2025-09-19T13:07:20.325Z | 
+    GET /api/v1/student?email=johndoe@gmail.com 
+2025-09-19T13:08:54.923Z | 
+    GET /api/v1/student?email=johndoe@gmail.com 
+Server started at port: 3000...2025-09-19T13:10:47.828Z | 
+    POST /api/v1/student 
+2025-09-19T13:10:56.998Z | 
+    GET /api/v1/students 
+Students found.2025-09-19T13:11:13.133Z | 
+    GET /api/v1/student?email=johndoe@gmail.com 
+Student with email: johndoe@gmail.com found.2025-09-19T13:11:22.438Z | 
+    GET /api/v1/student?email=janesmith@gmail.com 
+Student with email: janesmith@gmail.com found.
